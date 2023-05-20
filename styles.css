@@ -1,17 +1,20 @@
-*{
+* {
     margin: 0;
     padding: 0;
 
-}.navigation{
+}
+
+.navigation {
     display: flex;
     padding-left: 20px;
     padding-right: 50px;
     padding-bottom: 30px;
     align-items: center;
-    background-color:red;
-    
+    background-color: red;
+
 }
-h3{
+
+h3 {
     justify-content: space-between;
     text-align: center;
     margin-top: 30px;
@@ -24,28 +27,32 @@ h3{
     text-decoration: underline;
 
 }
-.image{
+
+.image {
     margin-top: 30px;
     margin-left: 10px;
     height: 60px;
     width: 60px;
 }
-#container1{
+
+#container1 {
     background-color: white;
-    justify-content:space-around;
+    justify-content: space-around;
     display: flex;
     margin: auto;
     padding: 40px 140px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#container1 input{
+
+#container1 input {
     border-radius: 30px;
     border: 2px solid black;
     padding: 10px;
     text-align: center;
     background-color: darkgray;
 }
-#container2{
+
+#container2 {
     background-color: white;
     display: flex;
     justify-content: space-around;
@@ -53,7 +60,8 @@ h3{
     margin: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#container2 input{
+
+#container2 input {
     display: flex;
     border-radius: 30px;
     border: 2px solid black;
@@ -62,7 +70,8 @@ h3{
     text-align: center;
     background-color: darkgray;
 }
-#container3{
+
+#container3 {
     background-color: white;
     margin: auto;
     padding: 10px;
@@ -71,7 +80,8 @@ h3{
     justify-content: space-around;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#container3 button{
+
+#container3 button {
     border-radius: 30px;
     border: 2px solid black;
     padding: 15px;
@@ -80,46 +90,54 @@ h3{
     color: white;
     background-color: red;
 }
-#middle1{
+
+#middle1 {
     display: flex;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: coral;
 }
-#middle2{
+
+#middle2 {
     display: flex;
     height: 200px;
     width: 10px;
 }
-#middle2 img{
+
+#middle2 img {
     display: flex;
-    margin:20px;
+    margin: 20px;
 }
-#middle1 b{
-   margin:20px;
+
+#middle1 b {
+    margin: 20px;
 }
-#middle3{
+
+#middle3 {
     display: flex;
     height: 180px;
     width: 240px;
-    background-color:coral;
+    background-color: coral;
     margin: 20px;
 
 }
-#middle4{
+
+#middle4 {
     display: flex;
     height: 180px;
     width: 300px;
-    background-color:coral;
+    background-color: coral;
     margin: 20px;
 
 }
-.middle2{
+
+.middle2 {
     display: flex;
     margin: auto;
     justify-content: space-around;
 }
-.middle2 img{
+
+.middle2 img {
     display: flex;
     margin: auto;
     justify-content: space-around;
@@ -127,7 +145,8 @@ h3{
     width: 300px;
     box-shadow: 0px 0px 10px 1px orange;
 }
-.middle{
+
+.middle {
     display: flex;
     margin: auto;
     font-family: sans-serif;
@@ -137,14 +156,16 @@ h3{
     justify-content: space-around;
     font-weight: bold;
 }
-.middle3{
+
+.middle3 {
     display: flex;
     justify-content: space-between;
     text-align: center;
     margin: auto;
 
 }
-.middle3-1{
+
+.middle3-1 {
     font-size: 20px;
     color: white;
     padding: 20px 90px;
@@ -152,14 +173,16 @@ h3{
     background-color: red;
     box-shadow: 0px 0px 10px 1px orange;
 }
-.middle3-2{
+
+.middle3-2 {
     font-size: 20px;
     color: white;
     padding: 20px 90px;
     background-color: red;
     box-shadow: 0px 0px 10px 1px orange;
 }
-.middle3-3{
+
+.middle3-3 {
     font-size: 20px;
     color: white;
     padding: 20px 90px;
@@ -167,13 +190,15 @@ h3{
     background-color: red;
     box-shadow: 0px 0px 10px 1px orange;
 }
-.middle3 p{
+
+.middle3 p {
     font-family: sans-serif;
     font-size: 20px;
     color: white;
     font-weight: bold;
 }
-.middle3 button{
+
+.middle3 button {
     border-radius: 30px;
     background-color: red;
     color: white;
@@ -181,7 +206,8 @@ h3{
     padding: 5px 5px;
     border: 1px solid white;
 }
-.middle4{
+
+.middle4 {
     display: flex;
     justify-content: space-between;
     padding: 20px 100px;
@@ -189,14 +215,16 @@ h3{
     background-color: lightgray;
     margin: 40px 70px;
 }
-.middle4 h4{
+
+.middle4 h4 {
     font-size: 20px;
     font-weight: bold;
     color: red;
     padding: 10px 2px;
     font-family: sans-serif;
 }
-.middle4 h5{
+
+.middle4 h5 {
     font-size: 15px;
     font-weight: bold;
     color: black;
